@@ -1,4 +1,6 @@
-[![Medium](https://img.shields.io/badge/blog-medium-brightgreen.svg)](https://commitocracy.com)
+[![Available for hire at $500/hr](https://img.shields.io/badge/Committer-hire%20me%20for%20%24500%2Fhr-red)](https://committer.com)
+
+
 
 [Who's Jake Murzy?](https://jakemurzy.com)
 
