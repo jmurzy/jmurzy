@@ -1,3 +1,5 @@
+[![Medium](https://img.shields.io/badge/blog-medium-brightgreen.svg)](https://commitocracy.com)
+
 [Who's Jake Murzy?](https://jakemurzy.com)
 
 **Latest Blog Posts**
