@@ -1,7 +1,7 @@
 [Personal Website - jakemurzy.com](https://jakemurzy.com)
 
 **Latest Blog Posts**
-- [Implementing FoldView in React Native](https://commitocracy.com/implementing-foldview-in-react-native-e970011f98b8)
+- [Implementing FoldView in React Native](https://jakemurzy.com/blog/implementing-foldview-in-react-native)
 - [Introducing React Router Native](https://commitocracy.com/introducing-react-router-native-b02e76b8ca5d)
 
 Follow me on X [@jmurzy](https://x.com/jmurzy)
