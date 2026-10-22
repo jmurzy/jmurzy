@@ -2,7 +2,7 @@
 
 **Latest Blog Posts**
 - [Implementing FoldView in React Native](https://jakemurzy.com/blog/implementing-foldview-in-react-native)
-- [Introducing React Router Native](https://commitocracy.com/introducing-react-router-native-b02e76b8ca5d)
+- [Introducing React Router Native](https://jakemurzy.com/blog/introducing-react-router-native)
 
 Follow me on X [@jmurzy](https://x.com/jmurzy)
 
